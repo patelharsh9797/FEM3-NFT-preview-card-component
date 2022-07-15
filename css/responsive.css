@@ -1,0 +1,5 @@
+@media screen and (max-width: 375px) {
+    .eth-info {
+        flex-direction: column;
+    }
+}
